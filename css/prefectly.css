@@ -106,8 +106,10 @@ h1 {
   border-radius: 10px;
   border-top: 1px solid #e4e4e4;
   color: #dddddd;
-  width :1000px;
-  font-size : 1000px;
+  width: 1000px;
+  height: 1000px;
+  font: normal normal 1000px/100% "prefectly-webfont";
+  padding: 200px;
 }
 
 #plain {
@@ -139,118 +141,4 @@ h1 {
 #visited .wy,
 #visited .yg {
   color: #52a3cc;
-}
-
-#region .hk {
-  color: #e58a8a;
-}
-#region .am,
-#region .at,
-#region .fs,
-#region .it,
-#region .mg,
-#region .ym {
-  color: #e5ac73;
-}
-#region .cb,
-#region .gm,
-#region .ig,
-#region .kn,
-#region .st,
-#region .tg,
-#region .tk {
-  color: #e5e55c;
-}
-#region .ac,
-#region .fk,
-#region .gf,
-#region .ik,
-#region .ng,
-#region .nn,
-#region .so,
-#region .ty,
-#region .yn {
-  color: #7acc7a;
-}
-#region .hg,
-#region .kt,
-#region .me,
-#region .nr,
-#region .os,
-#region .sg,
-#region .wk {
-  color: #7acccc;
-}
-#region .hs,
-#region .oy,
-#region .sn,
-#region .tt,
-#region .yg {
-  color: #7a96cc;
-}
-#region .to,
-#region .ka,
-#region .eh,
-#region .ko {
-  color: #a37acc;
-}
-#region .fo,
-#region .kg,
-#region .km,
-#region .mz,
-#region .ns,
-#region .on,
-#region .ot,
-#region .sa {
-  color: #cc7abe;
-}
-
-#eq .mg {
-  color: #e50000;
-}
-#eq .cb,
-#eq .fs,
-#eq .gm,
-#eq .ig,
-#eq .it,
-#eq .st,
-#eq .tg {
-  color: #e56000;
-}
-#eq .am,
-#eq .at,
-#eq .kn,
-#eq .ng,
-#eq .nn,
-#eq .so,
-#eq .tk,
-#eq .ym,
-#eq .yn {
-  color: #e59900;
-}
-#eq .ac,
-#eq .gf,
-#eq .hk {
-  color: #f2de00;
-}
-#eq .fk,
-#eq .hg,
-#eq .ik,
-#eq .kt,
-#eq .me,
-#eq .nr,
-#eq .os,
-#eq .sg,
-#eq .ty {
-  color: #73e500;
-}
-#eq .km,
-#eq .ko,
-#eq .oy,
-#eq .sa,
-#eq .sn,
-#eq .to,
-#eq .tt,
-#eq .wk {
-  color: #00e5bf;
 }
